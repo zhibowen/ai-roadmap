@@ -13,7 +13,7 @@
 ## Phase 0 – Boot-up  *(Weeks 1-2)*  
 > Goal: Refresh Python, math & git workflow before diving into ML.
 
-- [ ] **Search:** `Learn Python for Data Science freeCodeCamp full course`  
+- [x] **Search:** `Learn Python for Data Science freeCodeCamp full course`  
 - [ ] **Search:** `Mathematics for Machine Learning Imperial Linear Algebra`  
 - [ ] Re-implement softmax and cross-entropy in pure Python  
 - [ ] Set up `ai-roadmap` conda env + push first notebook to GitHub  
